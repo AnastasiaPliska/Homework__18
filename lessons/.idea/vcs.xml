@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lesson_13_Heroku_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson13-and-tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson_10.2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson_12.1/lesson_12.1_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson_13-and-tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson_13_part_2_ep4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson_15_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson_16-and-tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson_17-and-tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson_18-and-tests" vcs="Git" />
+  </component>
+</project>

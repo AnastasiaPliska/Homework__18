@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3801d8c-6a28-4f7e-aa67-cb3cb38650a2" name="Changes" comment="Итог_3" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="22E204XSHNcovjSp3SRJ8fN0GZQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1\PycharmProjects\sky_python\Homework\Homework_10" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3801d8c-6a28-4f7e-aa67-cb3cb38650a2" name="Changes" comment="" />
+      <created>1639388199219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639388199219</updated>
+    </task>
+    <task id="LOCAL-00001" summary="кккккккккк">
+      <created>1639428055822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639428055822</updated>
+    </task>
+    <task id="LOCAL-00002" summary="тест коммит">
+      <created>1639428449369</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639428449369</updated>
+    </task>
+    <task id="LOCAL-00003" summary="шаг 1">
+      <created>1639431886341</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639431886341</updated>
+    </task>
+    <task id="LOCAL-00004" summary="шаг 1 изм">
+      <created>1639432565633</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639432565633</updated>
+    </task>
+    <task id="LOCAL-00005" summary="шаг 2">
+      <created>1639433552836</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1639433552836</updated>
+    </task>
+    <task id="LOCAL-00006" summary="исправление ссылок">
+      <created>1639500875632</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1639500875632</updated>
+    </task>
+    <task id="LOCAL-00007" summary="шаг 3">
+      <created>1639502221679</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1639502221679</updated>
+    </task>
+    <task id="LOCAL-00008" summary="main ссылки">
+      <created>1639503718123</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1639503718123</updated>
+    </task>
+    <task id="LOCAL-00009" summary="main ссылки изм">
+      <created>1639503989194</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1639503989195</updated>
+    </task>
+    <task id="LOCAL-00010" summary="пиццы">
+      <created>1639504711111</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1639504711111</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Кнопки в корзину">
+      <created>1639505216922</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1639505216922</updated>
+    </task>
+    <task id="LOCAL-00012" summary="что-то ещё">
+      <created>1639508515757</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1639508515757</updated>
+    </task>
+    <task id="LOCAL-00013" summary="доставка">
+      <created>1639508728633</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1639508728633</updated>
+    </task>
+    <task id="LOCAL-00014" summary="доставка_2">
+      <created>1639509026678</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1639509026678</updated>
+    </task>
+    <task id="LOCAL-00015" summary="адрес">
+      <created>1639509857696</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1639509857696</updated>
+    </task>
+    <task id="LOCAL-00016" summary="таблица">
+      <created>1639511754158</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1639511754158</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Итог">
+      <created>1639512003401</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1639512003401</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Итог_2">
+      <created>1639512193280</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1639512193280</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Итог_3">
+      <created>1639512366803</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1639512366803</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="кккккккккк" />
+    <MESSAGE value="тест коммит" />
+    <MESSAGE value="шаг 1" />
+    <MESSAGE value="шаг 1 изм" />
+    <MESSAGE value="шаг 2" />
+    <MESSAGE value="исправление ссылок" />
+    <MESSAGE value="шаг 3" />
+    <MESSAGE value="main ссылки" />
+    <MESSAGE value="main ссылки изм" />
+    <MESSAGE value="пиццы" />
+    <MESSAGE value="Кнопки в корзину" />
+    <MESSAGE value="что-то ещё" />
+    <MESSAGE value="доставка" />
+    <MESSAGE value="доставка_2" />
+    <MESSAGE value="адрес" />
+    <MESSAGE value="таблица" />
+    <MESSAGE value="Итог" />
+    <MESSAGE value="Итог_2" />
+    <MESSAGE value="Итог_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Итог_3" />
+  </component>
+</project>

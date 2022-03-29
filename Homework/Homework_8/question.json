@@ -1,0 +1,62 @@
+{
+  "Which animal is called King of Jungle?": {
+    "correct_answer": ["Lion", "lion"],
+    "complexity": 1,
+    "author": "Ivanov Ivan",
+    "theme": "animals"
+  },
+  "Which is the largest animal in the world?": {
+    "correct_answer": ["Blue whale", "blue whale"],
+    "complexity": 1,
+    "author": "Ivanov Ivan",
+    "theme": "animals"
+  },
+  "Which is the tallest animal on the earth?": {
+    "correct_answer": ["Giraffe", "giraffe"],
+    "complexity": 2,
+    "author": "Ivanov Ivan",
+    "theme": "animals"
+  },
+  "Who was the first man to walk on the moon?": {
+    "correct_answer": ["Neil Armstrong"],
+    "complexity": 2,
+    "author": "Ivanov Ivan",
+    "theme": "people"
+  },
+  "Who invented the Computer?": {
+    "correct_answer": ["Charles Babbage"],
+    "complexity": 3,
+    "author": "Ivanov Ivan",
+    "theme": "people"
+  },
+  "Who painted the Mona Lisa?": {
+    "correct_answer": ["Leonardo da Vinci"],
+    "complexity": 3,
+    "author": "Ivanov Ivan",
+    "theme": "people"
+  },
+  "Which is the smallest continent in the world?": {
+    "correct_answer": ["Australia"],
+    "complexity": 4,
+    "author": "Ivanov Ivan",
+    "theme": "geography"
+  },
+  "Which is the largest ocean in the world?": {
+    "correct_answer": ["Pacific Ocean", "pacific ocean"],
+    "complexity": 4,
+    "author": "Ivanov Ivan",
+    "theme": "geography"
+  },
+  "Which place is known as the roof of the world?": {
+    "correct_answer": ["Tibet"],
+    "complexity": 5,
+    "author": "Ivanov Ivan",
+    "theme": "geography"
+  },
+  "Which is the continent with the most number of countries?": {
+    "correct_answer": ["Africa"],
+    "complexity": 5,
+    "author": "Ivanov Ivan",
+    "theme": "geography"
+  }
+}
