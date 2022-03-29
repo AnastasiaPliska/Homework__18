@@ -33,4 +33,5 @@ def user_page(username):
     return render_template("user-feed.html", posts=posts)
 
 
-app.run()
+if __name__ == "__main__":
+    app.run()

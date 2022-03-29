@@ -1,0 +1,11 @@
+{% if cv_published and not offers %}
+Ваше резюме размещено. Надо просто подождать.
+{% else %}
+{% if not offers %}
+Вы не разместили резюме.
+{% endif %}
+{% endif %}
+{% if offers %}
+У вас {{ offers }} приглашений!
+<button type="button">Перейти</button>
+{% endif %}

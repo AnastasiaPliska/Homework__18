@@ -1,0 +1,13 @@
+<html>
+
+<body>
+    <b>Список навыков:</b> <br/>
+    {% for skill, level in skills.items() %}
+    {{ skill }} - {{ level }}
+    <br/>
+    {% endfor %}
+</body>
+
+</html>
+
+<link rel="stylesheet" type="text/css" href="{{ url_for("static", filename="css/main.css") }}"/>
